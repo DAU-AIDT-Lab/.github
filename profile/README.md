@@ -19,7 +19,7 @@
 <a href="https://aidtlab-dau.github.io/">
   <img src="https://img.shields.io/badge/Official_Website-Visit_Us-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"/>
 </a>
-<a href="https://github.com/AIDTLab-DAU">
+<a href="https://github.com/DAU-AIDTLab">
   <img src="https://img.shields.io/badge/GitHub-AIDT_Lab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
